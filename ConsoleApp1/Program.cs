@@ -12,8 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("我是爱人");
             //Console.WriteLine("我也是爱人");
-            Console.WriteLine("这是我的信息");
-            Console.WriteLine("这是的信息");
+            //Console.WriteLine("这是我的信息");
+            //Console.WriteLine("这是的信息");
           
         }
     }
